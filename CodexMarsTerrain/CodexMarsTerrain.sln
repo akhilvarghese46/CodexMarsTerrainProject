@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodexMarsTerrain", "CodexMarsTerrain.csproj", "{6B44D7B7-150D-4730-BEFD-7C750BA2E541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unitTest", "..\unitTest\unitTest.csproj", "{32B9A763-3EBE-4485-A8EC-9F38B73AB89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B44D7B7-150D-4730-BEFD-7C750BA2E541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B44D7B7-150D-4730-BEFD-7C750BA2E541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B44D7B7-150D-4730-BEFD-7C750BA2E541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B44D7B7-150D-4730-BEFD-7C750BA2E541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B9A763-3EBE-4485-A8EC-9F38B73AB89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B9A763-3EBE-4485-A8EC-9F38B73AB89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B9A763-3EBE-4485-A8EC-9F38B73AB89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B9A763-3EBE-4485-A8EC-9F38B73AB89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED95D02-B63E-405D-B953-F88696871FC2}
+	EndGlobalSection
+EndGlobal

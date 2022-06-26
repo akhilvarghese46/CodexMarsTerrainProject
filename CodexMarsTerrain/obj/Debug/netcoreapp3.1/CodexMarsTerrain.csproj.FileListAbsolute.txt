@@ -1,0 +1,14 @@
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\bin\Debug\netcoreapp3.1\CodexMarsTerrain.exe
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\bin\Debug\netcoreapp3.1\CodexMarsTerrain.deps.json
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\bin\Debug\netcoreapp3.1\CodexMarsTerrain.runtimeconfig.json
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\bin\Debug\netcoreapp3.1\CodexMarsTerrain.runtimeconfig.dev.json
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\bin\Debug\netcoreapp3.1\CodexMarsTerrain.dll
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\bin\Debug\netcoreapp3.1\CodexMarsTerrain.pdb
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.AssemblyInfoInputs.cache
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.AssemblyInfo.cs
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.csproj.CoreCompileInputs.cache
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.dll
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.pdb
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.genruntimeconfig.cache
+D:\C# Learning\CodexMarsTerrain\CodexMarsTerrain\obj\Debug\netcoreapp3.1\CodexMarsTerrain.csproj.AssemblyReference.cache
